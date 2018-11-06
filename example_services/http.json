@@ -20,7 +20,7 @@
                         "10.1.20.121"
                     ],
                     "snat": "auto",
-                    "pool": "Pool1"
+                    "pool": "Pool2"
                 },
                 "Pool1": {
                     "class": "Pool",
